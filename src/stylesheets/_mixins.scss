@@ -1,0 +1,12 @@
+// 抽离代码
+
+@mixin dt-border-radius {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+
+//使用
+//.a{
+//     @include dt-border-radius;
+// }

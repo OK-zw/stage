@@ -1,0 +1,16 @@
+// 公共样式
+
+.ico{
+    color: $font-color;
+}
+
+.loading-img{
+    background-image: url(/static/images/loading.gif);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+html{
+    background:#ccc;
+}
